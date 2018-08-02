@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Milionare</string>
+    <string name="next">Next Qestion</string>
+    <string name="newGame">New Game</string>
+    <string name="start">Start Game</string>
+    <string name="about">About</string>
+    <string name="aboutText">
+        Спасибо всем!\n
+        Я это сделал 22.07.18
+    </string>
+</resources>
